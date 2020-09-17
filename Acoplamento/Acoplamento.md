@@ -1,6 +1,6 @@
 # Acoplamento
 
-[Início](../README.md)
+[Retornar](../README.md)
 
 Acoplamento é a união ou a ligação entre dois ou mais corpos, formando um único conjunto. 
 
