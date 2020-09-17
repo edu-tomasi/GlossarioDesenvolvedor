@@ -14,8 +14,8 @@ public class ProcessarVenda
 {
   public void Executar()
   {
-      var financeiro = new Financeiro();
-      var estoque = new Estoque(); 
+      var financeiro = new Financeiro();  //Aqui mora o perigo!
+      var estoque = new Estoque();        //Aqui mora o perido!
       
       if (finalizador.ValidarPagamento())
       {
